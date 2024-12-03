@@ -1,0 +1,7 @@
+Hello, this is a test file!
+This file demonstrates version control with Git and GitHub.
+
+Features:
+1. Version control
+2. Collaboration
+3. Code management
